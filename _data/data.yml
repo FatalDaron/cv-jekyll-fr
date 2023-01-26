@@ -1,0 +1,189 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: BREAN JEremy
+    tagline: Ingénieur cloud / Architecte cloud
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jeremy.brean@sysid.fr
+    phone: 
+    timezone: Europe/Paris Timezone
+    citizenship:
+    website: fataldaron.github.io/cv-jekyll/
+    linkedin: jbrean
+#    xing: 
+    github: fataldaron
+#    telegram: # add your nickname without '@' sign
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
+#    pdf: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: French
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Informatique
+          link:
+
+        - item: Jeux de rôle
+          link:
+
+        - item: Sport Cardio
+          link:
+
+career-profile:
+    title: Profil Professionnel
+    summary: |
+      Autodidacte et passionné, j’ai 24 ans d’expérience dans le domaine de l’informatique, 6 ans en tant qu’ingénieur DEVOPS et 4 ans en tant qu’ingénieur cloud chez Société Générale. 
+      J’adore travailler en équipe et avoir une bonne relation, je voudrais me mettre au service de votre entreprise.
+      Domaine de compétence : <mark>AWS</mark>, <mark>Ansible</mark>, <mark>Terraform</mark>, <mark>Kubernetes</mark>, <mark>Devops</mark> et <mark>Linux</mark>
+
+education:
+    title: Education
+    info:
+      - degree: BTS, Conception de Produits Industriels
+        university: Puteaux - Lycée Agora
+        time: 1997 - 1999
+        details: |
+          BTS CPI - Conception de produits industriels sont des techniciens supérieurs de bureau d’études en charge de la modification, l’amélioration, la re-conception partielle ou la création de produits industriels.
+          Ces produits relevant du secteur de la construction mécanique et des constructions métalliques, ils intègrent une grande diversité de matériaux et de procédés. 
+          Qu’il s’agisse de biens de consommation pour le grand public ou de biens d’équipement pour les entreprises, ils sont largement pluri-technologiques.
+      - degree: BAC STI , Génie Mécanique
+        university: Cergy - Lycée Polyvalent Jules Verne
+        time: 1995 - 1997
+        details: |
+          Pour intervenir efficacement dans un atelier de réparation d'engins motorisés (véhicules automobiles, poids lourds, navigation de plaisance ou autre), le technicien doit être capable d'effectuer les mesures physiques nécessaires au diagnostic.
+          L'analyse fonctionnelle indispensable à la bonne compréhension du fonctionnement des systèmes est une partie importante de la formation
+
+    title: Experiences
+    info:
+      - role: Ingénieur cloud / Architecte cloud
+        time: Février 2018 - Present
+        company: Société Générale
+        details: |
+          Travaillant dans une Software Factory, mon activité était la gestion des outils CI / CD et le développement d’outils permettant l’automatisation et l’intégration des applications clients sur les clouds publics / privés
+
+          Mon activité dans le Cloud Privé :
+            Gestion des outils CI/CD (jenkins/Nexus/Sonartype)
+            Automatisation CI/CD via les bibliothèques (Ansible, Groovy, Python)
+            Automatisation des déploiements sur les VMs et kubernetes (Ansible, YAML)
+
+          Mon activité dans le nuage public :
+
+            Gestion des outils CI/CD (Gitlab/Openshift/Cloudbees/Nexus/Sonartype)
+            Automatisation CI/CD via les bibliothèques (Terraform, Ansible, Groovy, Python)
+            Automatisation des déploiements sur AWS et kubernetes (Terraform, Ansible, Groovy, Python)
+
+            Compétences utilisées : <mark>AWS</mark>, <mark>Ansible</mark>, <mark>Terraform</mark>, <mark>Kubernetes</mark>, <mark>Python</mark> et <mark>Groovy</mark>
+    
+      - role: Devops Ingénieur
+        time: Mars 2016 -Février 2018
+        company: Société Générale
+        details: |
+            Au sein d’un bureau technique de 20 personnes (Expertise Niveau 3), ma mission était d’apporter mes connaissances et mon expertise.
+            Création d’une solution d’automatisation des déploiements sur VM/Serveur sans passer par un bureau technique.
+            Cette solution a améliorée les délais de déploiement et réduit les coûts d’exploitation.
+            Elle a été Développée en Ansible/Python/Groovy et exploitée par Ansible TOWER/AWS et Jenkins
+
+            Compétences utilisées : <mark>gestion d’équipe</mark>, <mark>Ansible</mark>, <mark>Python</mark> et <mark>grrovy</mark>
+
+      - role: Support aux opérations
+        time: Mai 2015 - Mars 2016
+        company: Société Générale
+        details: |
+            L’objectif de ma mission au sein du département Support Opérationnel était l’analyse des données d’accidentologie de l'ensemble des périmètres applicatifs.
+            Ces analyses ont abouties à des plans d’action transversaux pour corriger l'ensemble des problèmes rencontrés et réduire les coûts d’exploitation et rendre les applications plus fiables.
+
+            Compétences utilisées : <mark>BMC Patrol</mark>, <mark>SAP BusinessObjects</mark>, <mark>Macro VBA</mark> et <mark>Microsoft Excel</mark>
+
+      - role: Chef de projet
+        time: Javier 2012 - Mai 2015
+        company: Société Générale
+        details: |
+            Ma mission était de coordonner et d’intégrer toutes les nouvelles applications ou infrastructures.
+            Positionné sur différents projets simultanément, ma mission était de générer un planning et de coordonner toutes les parties prenantes selon une spécification fournie par les clients. 
+            Au cours de ma mission, 33 projets ont été finalisés.
+
+            Exemple de projet mis en œuvre : <a href="https://www.societegenerale.com/fr/actualites/newsroom/strategie-5">Digital For All</a>
+
+            Compétences utilisées : <mark>Gestion de projet</mark> et <mark>architecte de solutions</mark>
+
+      - role: Ingénieur production
+        time: May 2009 - May 2012
+        company: Société Générale
+        details: |
+            Au sein d’un bureau technique, ma mission était de fournir un soutien et une expertise sur toutes les applications de mon champ d’application.
+            Mes objectifs étaient de gérer toutes les demandes des clients, d’aider les utilisateurs et de surveiller les incidents, d’administrer et de surveiller toutes les applications de mon champ d’application et d’effectuer un appel 24/7.
+
+            Compétences utilisées : <mark>Linux</mark>, <mark>Windows Server</mark>, <mark>Bash</mark>, <mark>Python</mark> et <mark>application Opensource</mark>
+
+
+
+
+
+
+      - role: Administrateur système et réseaux
+        time: Mars 2016 -Février 2018
+        company: Société Générale
+        details: |
+            Au sein d’un bureau technique, ma mission était de fournir un soutien et une expertise sur toutes les applications de mon champ d’application.
+            Mes objectifs étaient de gérer toutes les demandes des clients, d’aider les utilisateurs et de surveiller les incidents, d’administrer et de surveiller toutes les applications de mon champ d’application et d’effectuer un appel 24/7.
+
+            Compétences utilisées : <mark>Linux</mark>, <mark>Windows Server</mark>, <mark>Bash</mark>, <mark>Python</mark> et <mark>application Opensource</mark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
