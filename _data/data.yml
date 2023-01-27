@@ -137,40 +137,54 @@ experiences:
 
             Compétences utilisées : <mark>Linux</mark>, <mark>Windows Server</mark>, <mark>Bash</mark>, <mark>Python</mark> et <mark>application Opensource</mark>
 
-
       - role: Administrateur système et réseaux
         time: Décembre 2008 - Avril 2009
         company: Banque Populaire
         details: |
-            Au sein d’une équipe, ma mission était la gestion des firewall et des serveurs de mail du datacenter Paris île de france.
+            Au sein d’une équipe, ma mission était la gestion des firewall/reverse proxy et des serveurs de mails.
+            Mes objectifs étaient la gestion des flux réseaux entrant et sortant (gestion des access liste), exposition des applications, lutte contre les spams et toutes menaces contre l'entreprise.
             
-            
-            de fournir un soutien et une expertise sur toutes les applications de mon champ d’application.
-            Mes objectifs étaient de gérer toutes les demandes des clients, d’aider les utilisateurs et de surveiller les incidents, d’administrer et de surveiller toutes les applications de mon champ d’application et d’effectuer un appel 24/7.
+            Compétences utilisées : <mark>Linux</mark>, <mark>HAProxy</mark>, <mark>Postfix</mark> et <mark>Cisco</mark>
 
-            Compétences utilisées : <mark>Linux</mark>, <mark>Windows Server</mark>, <mark>Bash</mark>, <mark>Python</mark> et <mark>application Opensource</mark>
+      - role: Ingénieur production
+        time: Octobre 2006 - Novembre 2008
+        company: BNP Paribas
+        details: |
+            Au sein d’une équipe, ma mission était l'analyse, l'agregassion et la génération de rapport permettant d'optimmiser et d'anticiper les problèmes réseaux.
+            Mes objectifs étaient d'analyser et d'optimiser les interconnections entre les différents réseaux du SI
+            Sur incident aider les équipes à trouver les causes du problème.
+
+            Compétences utilisées : <mark>Infovista</mark>, <mark>Omnivision</mark> et <mark>BMC Patrol</mark>
+
+      - role: IAdministrateur système et réseaux
+        time: Mai 2001 - Octobre 2004
+        company: Siemens
+        details: |
+            Au sein d’un bureau d'études, ma mission était d'analyser les besoins clients et dévelloper les solutions techniques et de les implémentées.
+            En clientèle chez SFR, Mes objectifs étaient de gérer l'ensemble du parc UNIX Sienens, d’aider à la conception d'offre mobile.
+            Administrer et de surveiller toutes l'ensemble des serveurs 24/24h et 7/7j.
+
+            Compétences utilisées : <mark>Linux</mark>, <mark>Unix</mark> et <mark>Language C</mark>
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Ansible
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: AWS
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Terraform
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Linux
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Kubernetes
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 70%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
