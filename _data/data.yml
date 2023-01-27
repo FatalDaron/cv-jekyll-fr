@@ -74,6 +74,7 @@ education:
           Pour intervenir efficacement dans un atelier de réparation d'engins motorisés (véhicules automobiles, poids lourds, navigation de plaisance ou autre), le technicien doit être capable d'effectuer les mesures physiques nécessaires au diagnostic.
           L'analyse fonctionnelle indispensable à la bonne compréhension du fonctionnement des systèmes est une partie importante de la formation
 
+experiences:
     title: Experiences
     info:
       - role: Ingénieur cloud / Architecte cloud
@@ -116,7 +117,7 @@ education:
             Compétences utilisées : <mark>BMC Patrol</mark>, <mark>SAP BusinessObjects</mark>, <mark>Macro VBA</mark> et <mark>Microsoft Excel</mark>
 
       - role: Chef de projet
-        time: Javier 2012 - Mai 2015
+        time: Janvier 2012 - Mai 2015
         company: Société Générale
         details: |
             Ma mission était de coordonner et d’intégrer toutes les nouvelles applications ou infrastructures.
@@ -128,40 +129,26 @@ education:
             Compétences utilisées : <mark>Gestion de projet</mark> et <mark>architecte de solutions</mark>
 
       - role: Ingénieur production
-        time: May 2009 - May 2012
+        time: Mai 2009 - Janvier 2012
         company: Société Générale
         details: |
             Au sein d’un bureau technique, ma mission était de fournir un soutien et une expertise sur toutes les applications de mon champ d’application.
             Mes objectifs étaient de gérer toutes les demandes des clients, d’aider les utilisateurs et de surveiller les incidents, d’administrer et de surveiller toutes les applications de mon champ d’application et d’effectuer un appel 24/7.
 
             Compétences utilisées : <mark>Linux</mark>, <mark>Windows Server</mark>, <mark>Bash</mark>, <mark>Python</mark> et <mark>application Opensource</mark>
-
-
-
-
 
 
       - role: Administrateur système et réseaux
-        time: Mars 2016 -Février 2018
-        company: Société Générale
+        time: Décembre 2008 - Avril 2009
+        company: Banque Populaire
         details: |
-            Au sein d’un bureau technique, ma mission était de fournir un soutien et une expertise sur toutes les applications de mon champ d’application.
+            Au sein d’une équipe, ma mission était la gestion des firewall et des serveurs de mail du datacenter Paris île de france.
+            
+            
+            de fournir un soutien et une expertise sur toutes les applications de mon champ d’application.
             Mes objectifs étaient de gérer toutes les demandes des clients, d’aider les utilisateurs et de surveiller les incidents, d’administrer et de surveiller toutes les applications de mon champ d’application et d’effectuer un appel 24/7.
 
             Compétences utilisées : <mark>Linux</mark>, <mark>Windows Server</mark>, <mark>Bash</mark>, <mark>Python</mark> et <mark>application Opensource</mark>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 skills:
     title: Skills &amp; Proficiency
