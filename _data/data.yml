@@ -80,6 +80,7 @@ experiences:
       - role: Ingénieur cloud / Gestion de projet
         time: Mars 2023 / Actuellement
         company : RATP
+        details: |
           Travaillant au sein du CCOE (Cloud Center Of excellence), Mes activités sont la gestion des platformes applicatives (EKS, Openshift, ...) et le développement d’outils permettant l’automatisation et l’intégration des nouevelles applications sur les clouds publics.
 
           Mes activités dans le nuage public sont :
