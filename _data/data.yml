@@ -85,10 +85,10 @@ experiences:
 
           Mes activités dans le nuage public sont :
 
-            Etude et analyse des besoins client (Réception des besoins clients, étude des solutions existantes, rédaction des documentations et schémas.)
-            Intégration et automatisation (IaC) des nouveaux besoins (Reception et validation des actions à réaliser, Création / mise à jour / validation en des dévellopements dev/stg/prd)
-            Maintien en condition opérationnel (Suivi des releases notes produits, étude et impact des évolutions, planification/Mise à jour des évolutions).
-            Maintien et évolution des librairies systèmes (Analyse des évolutions et des besoins, intégration des nouvelles fonctionnalités, test de non régression et mise en production).
+            Etude et analyse des besoins client (Réception des besoins clients, étude des solutions existantes, rédaction des documentations et schémas).<br>
+            Intégration et automatisation (IaC) des nouveaux besoins (Reception et validation des actions à réaliser, Création / mise à jour / validation en des dévellopements dev/stg/prd).<br>
+            Maintien en condition opérationnel (Suivi des releases notes produits, étude et impact des évolutions, planification/Mise à jour des évolutions).<br>
+            Maintien et évolution des librairies systèmes (Analyse des évolutions et des besoins, intégration des nouvelles fonctionnalités, test de non régression et mise en production).<br>
 
             Compétences requises : <mark>AWS</mark>, <mark>Terraform</mark>, <mark>Kubernetes</mark>, <mark>Python</mark> et <mark>Openshift</mark>        
 
