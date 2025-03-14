@@ -17,7 +17,7 @@ contents:
 
       ✅ Intégration et automatisation (IaC)<br>
         •	Développement et mise en place d’infrastructures automatisées via Terraform.<br>
-        •	Création, mise à jour et validation des environnements (dev, staging, production).<br>
+        •	Création, mise à jour et validation des environnements (dev, hors production, production).<br>
 
       ✅ Maintien en condition opérationnelle<br>
         •	Suivi des release notes et analyse d’impact des évolutions technologiques.<br>
@@ -28,7 +28,7 @@ contents:
         •	Tests de non-régression et déploiement en production.<br>
 
       <b>💡 Compétences techniques :</b><br>
-      AWS | Terraform | Kubernetes | Python | OpenShift<br>
+      AWS | Terraform | OpenShift | Kubernetes | Helm et Kustomize | FluxCD<br>
   - role: Ingénieur DevOps & Automatisation
     time: Février 2018 - Février 2023
     title: Société Générale
@@ -56,7 +56,7 @@ contents:
     details: |
       <b>Missions principales :</b><br>
         •	Expertise et support technique : Apporter des solutions aux problématiques complexes et accompagner les équipes.<br>
-        •	Automatisation des déploiements : Développement et mise en place d’une solution permettant des déploiements sur VM/Serveur sans intervention du bureau technique.<br>
+        •	Automatisation des déploiements : Développement et mise en place d’une solution permettant des déploiements sur VM/Serveur sans intervention des bureaux techniques.<br>
       
       <b>Réalisations clés :</b><br>
       ✅ Création d’une solution d’automatisation des déploiements<br>
@@ -69,7 +69,7 @@ contents:
         •	Suivi des intervenants et applications en intégration.<br>
         •	Certification de l’exploitabilité des applications avant passage en production.<br>
       ✅ En mode service<br>
-        •	Support technique auprès du bureau technique et des ISM.<br>
+        •	Support technique auprès des bureaux techniques et des ISM.<br>
         •	Gestion des incidents et accompagnement des changements.<br>
         •	Amélioration continue de la qualité des services.<br>
 
