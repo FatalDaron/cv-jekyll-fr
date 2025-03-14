@@ -1,0 +1,44 @@
+subject: Formations
+listing-order: 1
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Licence, Bac + 3, ITIN (Cergy Saint Christophe)
+    time: Mai 2001 - Septembre 2001
+    details: |
+      École financée par SIEMENS et la Chambre de Commerce et d’Industrie de Versailles Val-d’Oise/Yvelines, Formation financée par l’ANPE, 4 mois<br>
+      <b>Compétences acquises :</b><br>
+      •	Réseaux avancés : X25, TCP/IP, routeurs, réseaux fixes (Numérique, Boucle Locale, ADSL).<br>
+      •	Systèmes d’exploitation : Administration et exploitation de Unix, Windows NT/2000, Linux.<br>
+      •	Télécommunications mobiles : GSM, GPRS, UMTS.<br>
+      <b>Objectif de la formation : </b>Développer des compétences solides en administration de réseaux et en gestion des infrastructures télécoms.<br>
+      <b>Période de formation :</b> 4 mois, suivie d’une embauche.<br>
+  - title: Spécialisation Bac + 3, ASFO-GRIVO (Cergy Saint Christophe)
+    time: Décembre 1999 - Septembre 2000
+    details: |
+      Formation en alternance de 12 mois (481 heures) au centre ASFO-GRIVO, centre de formation professionnelle continue.<br>
+      <b>Compétences acquises :</b><br>
+      •	Systèmes d’exploitation : Administration et support de Windows NT/2000.<br>
+      •	Développement Web : HTML, ASP, SQL.<br>
+      •	Logiciels Web : Dreamweaver, WebExpert.<br>
+      •	Infographie : Photoshop, Flash, Paint Shop Pro, Illustrator, Première, Director.<br>
+      •	Création de sites dynamiques en utilisant les outils et langages web.<br>
+
+  - title: BTS CPI (Conception de produits industriels), Lycée Agora (Puteaux)
+    time: 1997 - 1999
+    details: |
+      Formation technique de niveau Bac +2.<br>
+      <b>Compétences acquises :</b><br>
+      •	Consultation du dossier d’études : Élaboration du cahier des charges fonctionnel, analyse des solutions existantes, prises de cotes.<br>
+      •	Conception : Modélisation 3D/2D (Solidworks, Catia, Autocad…), gestion de la relation produit-matériau-coût, intégration de l’éco-conception.<br>
+      •	Dossier de fabrication et suivi : Plans d’ensemble, suivi de montage, mises au point.<br>
+      •	Gestion de bureau : Mise à jour des plans, archivage, documentation technique pour clients.<br>
+      <b>Objectif de la formation :</b> Former des techniciens supérieurs de bureau d’études capables de gérer des projets de conception, modification et création de produits industriels.<br>
+  - title: BAC STI Génie Mécanique, Lycée Polyvalent Jules Verne (Cergy-le-Haut)
+    time: 1995 - 1997
+    details: |
+      <b>Type de formation :</b> Baccalauréat technologique en Sciences et Techniques Industrielles, spécialité génie mécanique.<br>
+      <b>Compétences acquises :</b><br>
+      •	Fabrication industrielle et production : Conception, fabrication et contrôle des produits industriels, avec une compréhension approfondie des mécanismes et des systèmes mécaniques.<br>
+      •	Analyse et maintenance des équipements : Apprentissage des bases de la maintenance, des procédés de production et des outils informatiques industriels.<br>
+      •	Automatique et informatique appliquée : Formation sur les automatismes et la programmation industrielle.<br>
+      •	Objectif de la formation : Former des techniciens capables de travailler dans la production, la maintenance, et la gestion de la fabrication de produits mécaniques.<br>

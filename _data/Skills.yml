@@ -1,0 +1,26 @@
+subject: Compétences
+listing-order: 4
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: Languages.
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg) <b>Terraform</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) <b>Python</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg) <b>Ansible</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg) <b>Bash</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg) <b>Helm</b><br>"
+  - title: Plateformes
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) <b>Amazon Web Services</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg) <b>Microsoft Azure</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg) <b>Redhat Openshift</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg) <b>Kubernetes</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg) <b>Docker</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg) <b>Linux</b><br>"
+  - title: Outils
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg) <b>Gitlab</b><br>
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg) <b>VSCode</b><br>"
+
+
+      

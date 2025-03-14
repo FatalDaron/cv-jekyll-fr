@@ -1,0 +1,282 @@
+subject: Expériences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - role: Ingénieur Cloud & Automatisation
+    time: Mars 2023 - Actuellement
+    title : RATP - Paris (75012)
+    details: |
+      <b>Missions principales :</b><br>
+        •	Gestion des plateformes applicatives : Administration et optimisation des environnements EKS, OpenShift, etc.<br>
+        •	Développement d’outils : Automatisation et intégration des nouvelles applications sur les clouds publics.<br>
+
+      <b>Activités dans le cloud public :</b><br>
+      ✅ Étude et analyse des besoins clients<br>
+        •	Réception et analyse des demandes clients.<br>
+        •	Étude des solutions existantes et rédaction de la documentation technique (schémas d’architecture, recommandations).<br>
+
+      ✅ Intégration et automatisation (IaC)<br>
+        •	Développement et mise en place d’infrastructures automatisées via Terraform.<br>
+        •	Création, mise à jour et validation des environnements (dev, staging, production).<br>
+
+      ✅ Maintien en condition opérationnelle<br>
+        •	Suivi des release notes et analyse d’impact des évolutions technologiques.<br>
+        •	Planification et mise en œuvre des mises à jour.<br>
+
+      ✅ Maintien et évolution des librairies systèmes<br>
+        •	Analyse des nouveaux besoins et intégration des nouvelles fonctionnalités.<br>
+        •	Tests de non-régression et déploiement en production.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      AWS | Terraform | Kubernetes | Python | OpenShift<br>
+  - role: Ingénieur DevOps & Automatisation
+    time: Février 2018 - Février 2023
+    title: Société Générale
+    details: |
+      <b>Missions principales :</b><br>
+        •	Gestion des outils CI/CD : Administration et optimisation des pipelines d’intégration et de déploiement continu (Jenkins, GitLab, Nexus, Sonatype, CloudBees).<br>
+        •	Automatisation et déploiement : Développement d’outils pour l’intégration et l’automatisation des applications sur les clouds publics et privés.<br>
+
+      <b>Activités dans le Cloud Privé :</b><br>
+      ✅ Gestion des outils CI/CD (Jenkins, Nexus, Sonatype).<br>
+      ✅ Automatisation CI/CD via Ansible, Groovy, Python.<br>
+      ✅ Déploiement automatisé sur VMs et Kubernetes avec Ansible, YAML.<br>
+
+      <b>Activités dans le Cloud Public :</b><br>
+      ✅ Gestion des outils CI/CD (GitLab, OpenShift, CloudBees, Nexus, Sonatype).<br>
+      ✅ Automatisation CI/CD avec Terraform, Ansible, Groovy, Python.<br>
+      ✅ Déploiement automatisé sur AWS et Kubernetes avec Terraform, Ansible, Groovy, Python.<br>
+
+      <b>💡 Compétences techniques :<b/><br>
+      AWS | Ansible | Terraform | Kubernetes | Python | Groovy
+
+  - role: Référent Technique – Expertise Niveau 3
+    time: Mars 2016 - Février 2018
+    title: Société Générale
+    details: |
+      <b>Missions principales :</b><br>
+        •	Expertise et support technique : Apporter des solutions aux problématiques complexes et accompagner les équipes.<br>
+        •	Automatisation des déploiements : Développement et mise en place d’une solution permettant des déploiements sur VM/Serveur sans intervention du bureau technique.<br>
+      
+      <b>Réalisations clés :</b><br>
+      ✅ Création d’une solution d’automatisation des déploiements<br>
+        •	Développement en Ansible, Python, Groovy.<br>
+        •	Exploitation via Ansible Tower, AWS, Jenkins.<br>
+        •	Amélioration des délais de déploiement et réduction des coûts d’exploitation.<br>
+      
+      <b>Activités en tant que Référent Technique :</b><br>
+      ✅ En mode projet<br>
+        •	Suivi des intervenants et applications en intégration.<br>
+        •	Certification de l’exploitabilité des applications avant passage en production.<br>
+      ✅ En mode service<br>
+        •	Support technique auprès du bureau technique et des ISM.<br>
+        •	Gestion des incidents et accompagnement des changements.<br>
+        •	Amélioration continue de la qualité des services.<br>
+
+      <b>💡 Compétences techniques et managériales :</b><br>
+      Gestion d’équipe | Ansible | Python | Groovy
+
+  - role: Ingénieur de production - Analyste Support Opérationnel
+    time: Mai 2015 - Mars 2016
+    title: Société Générale
+    details: |
+      <b> Missions principales :</b><br>
+        •	Analyse des données d’accidentologie sur l’ensemble des périmètres applicatifs.<br>
+        •	Élaboration de plans d’action transversaux pour corriger les incidents récurrents.<br>
+        •	Optimisation des applications afin d’améliorer leur fiabilité et de réduire les coûts d’exploitation.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Identification des causes récurrentes d’incidents et mise en place de solutions préventives.<br>
+      ✅ Automatisation des rapports et des analyses à l’aide de SAP BusinessObjects et VBA.<br>
+      ✅ Amélioration de la supervision des applications via BMC Patrol.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      BMC Patrol | SAP BusinessObjects | Macro VBA | Microsoft Excel
+
+  - role: Chef de Projet & Architecte de Solutions
+    time: Janvier 2012 - Mai 2015
+    title: Société Générale
+    details: |
+      <b> Missions principales :</b><br>
+        •	Coordination et intégration des nouvelles applications et infrastructures.<br>
+        •	Gestion multi-projets : Planification et suivi simultané de plusieurs initiatives.<br>
+        •	Gestion des parties prenantes : Alignement des équipes techniques et fonctionnelles selon les spécifications clients.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Gestion et finalisation de 33 projets dans des environnements complexes.<br>
+      ✅ Exemple de projet réalisé : Digital For All.<br>
+      ✅ Mise en place de processus optimisés pour accélérer le déploiement des infrastructures et applications.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Gestion de projet | Architecture de solutions
+
+  - role: Ingénieur Support & Administration Applicative
+    time: Mai 2009 - Janvier 2012
+    title: Société Générale
+    details: |
+      <b> Missions principales :</b><br>
+        •	Support et expertise sur l’ensemble des applications du périmètre.<br>
+        •	Gestion des demandes clients : Assistance aux utilisateurs et supervision des incidents.<br>
+        •	Administration et supervision des applications critiques avec une astreinte 24/7.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Chef de projet applicatif : Installation, migration et mise aux normes des applications.<br>
+      ✅ Administration et maintenance des serveurs sous Solaris (8 et 10), Windows Server 2003, Red Hat Enterprise 5/6.<br>
+      ✅ Support Niveau 3 sur l’ensemble du parc applicatif.<br>
+      ✅ Gestion des workflows et supervision via Control-M (création, administration, surveillance).<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Solaris (8 et 10) | Red Hat Enterprise | Windows Server 2003 | Bash | Python | Applications Open Source
+  - role: Administrateur Systèmes & Réseaux 
+    time: Décembre 2008 - Avril 2009
+    title: BPCE
+    details: |
+      <b>Missions principales :</b><br>
+        •	Gestion, analyse et sécurisation des équipements réseaux et des passerelles internet.<br>
+        •	Administration et supervision des infrastructures réseau et serveurs de virtualisation.<br>
+        •	Mise en place et gestion des règles de sécurité sur les firewalls.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Administration et configuration des équipements réseaux (Switch Cisco).<br>
+      ✅ Supervision et analyse des équipements via Cacti et Nagios.<br>
+      ✅ Gestion des proxys internet (Squid).<br>
+      ✅ Configuration et administration des firewalls avec implémentation des règles de sécurité.<br>
+      ✅ Administration des serveurs de virtualisation sous VMware.<br>
+      ✅ Développement d’outils en Perl pour l’automatisation des tâches.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Windows Server 2003 | Linux (Red Hat) | VMware | Cisco | Nagios | Cacti | Perl
+
+  - role: Administrateur Systèmes & Métrologie 
+    time: Octobre 2006 - Novembre 2008
+    title: BNP Paribas, Saint-Mandé (94)
+    details: |
+      <b>Missions principales :</b><br>
+        •	Gestion et supervision des serveurs sous Windows, Solaris, AIX et Linux.<br>
+        •	Administration de la plateforme InfoVista et développement d’indicateurs et métriques.<br>
+        •	Mise en place de règles de surveillance et d’audits pour optimiser la performance des réseaux et applications métiers.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Administration complète d’InfoVista (Serveur, Cockpit, Portal, VistaMart, Oracle).<br>
+      ✅ Développement d’indicateurs et métriques pour l’analyse de performance.<br>
+      ✅ Création, mise à jour et suivi des contrats de service pour garantir la qualité opérationnelle.<br>
+      ✅ Audit et analyse des connexions des agences, permettant d’optimiser les lignes spécialisées internet et de générer une économie annuelle de 700k€ pour la banque.<br>
+      ✅ Administration et supervision de 12 serveurs Windows 2003 (Exchange 2003, Active Directory, IIS, VPN, ISA 2004).<br>
+      ✅ Gestion et supervision des serveurs UNIX (4 sous Solaris, 2 sous AIX, 1 sous Linux).<br>
+      ✅ Configuration et administration des switches Cisco pour assurer la stabilité et la performance du réseau.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Windows Server 2003 | Solaris | AIX | Linux | Oracle | InfoVista | Audit & Supervision | Cisco | Optimisation des coûts IT
+
+  - role: Technicien Support & Administration Réseaux
+    time: Octobre 2004 - Octobre 2006
+    title: Adhesia / Gift
+    details: |
+      <b>Missions principales :</b><br>
+        •	Intervention sur pannes matérielles et logicielles (Linux, Windows 98, NT, Millenium, 2000/PRO/Server, XP, 2003 SBS).<br>
+        •	Installation, configuration et maintenance des infrastructures informatiques.<br>
+        •	Conseil, audit et infogérance pour optimiser les performances réseau et système.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Installation et maintenance d’un parc informatique (10 postes sous Windows XP, 2 serveurs Windows SBS 2003).<br>
+      ✅ Audit complet du réseau et du système pour identifier les failles et améliorer la sécurité.<br>
+      ✅ Réinstallation et sécurisation du réseau (LAN, WiFi).<br>
+      ✅ Mise en place et paramétrage d’un serveur Windows SBS 2003 (Domaine, Exchange, IIS, VPN, gestion des droits utilisateurs).<br>
+      ✅ Montage, installation et configuration des postes de travail sous Windows XP.<br>
+      ✅ Mise en place d’un contrat de maintenance annuel pour assurer la pérennité du système.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Conseil & Audit IT | Installation & Déploiement Réseau | Windows Server | Maintenance & Support
+
+  - role: Ingénieur Systèmes & Réseaux
+    time: Mai 2001 - Octobre 2004
+    title: Siemens
+    details: |
+      <b>Missions principales :</b><br>
+        •	Analyse des besoins clients et développement de solutions techniques adaptées.<br>
+        •	Gestion et administration du parc UNIX Siemens chez SFR (24/7).<br>
+        •	Déploiement, test et maintenance des équipements réseau et serveurs chez Cegetel.<br>
+        •	Coordination de projets techniques et mise en conformité des infrastructures.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Administration et surveillance des serveurs UNIX/Linux/SUN (gestion des mises à jour et patchs de sécurité).<br>
+      ✅ Montage, installation et configuration de serveurs SIEMENS sous UNIX (Sinix), Linux (RedHat, Suse), Windows NT4/2000/XP.<br>
+      ✅ Paramétrage et gestion des équipements réseau (Switch Cisco, HP, Alteon - LAN, MAN, WAN, X25).<br>
+      ✅ Déploiement et mise en conformité des infrastructures pour SFR et Cegetel.<br>
+      ✅ Rédaction de procédures d’installation et de validation (Release Notes, documentation en anglais).<br>
+      ✅ Mises à jour hebdomadaires des équipements (OS, logiciels, firmwares, hardware).<br>
+      ✅ Supervision des équipements via HP OpenView et participation à l’astreinte 24/7.<br>
+      ✅ Coordination d’une équipe internationale (70 personnes : Français, Allemands, Tchèques, Indiens).<br>
+
+      <b>💡 Environnements techniques :</b><br>
+      Linux (RedHat, Suse) | UNIX (Sinix, Solaris 10) | Windows NT4/2000 Server | Cisco, HP, Alteon | Réseaux LAN, MAN, WAN, X25
+
+      <b>💡 Compétences techniques :</b><br>
+      Administration Systèmes & Réseaux | Gestion de Projet IT | Supervision & Sécurisation | Documentation & Procédures
+
+  - role: Technicien Systèmes & Développement Web.
+    time: Janvier 2001 - Maris 2001
+    title: ITB Consulting et service
+    details: |
+      <b>Missions principales :</b><br>
+        •	Réception et installation de serveurs (Compaq, HP, IBM) chez les clients.<br>
+        •	Configuration et intégration des équipements sur les réseaux locaux.<br>
+        •	Étude et conception d’un site marchand avec une vitrine et un système de suivi des commandes.<br>
+        •	Développement en ASP et SQL Server pour la gestion des transactions et des utilisateurs.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Installation et configuration de serveurs pour optimiser l’infrastructure des clients.<br>
+      ✅ Développement et mise en ligne d’un site e-commerce avec suivi des commandes en temps réel.<br>
+      ✅ Optimisation des bases de données sous Microsoft SQL Server.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Windows NT 4 | ASP (développement web dynamique) | Microsoft SQL Server (gestion de bases de données)
+
+  - role: Développeur de Sites WEB, Support Technique et Hot Line.
+    time: Décembre 1999 - Septembre 2000
+    title: Agence Presse Service
+    details: |
+      <b>Missions principales :</b><br>
+        •	Maintenance et évolution du site internet avec une vitrine et un système de récupération de coupures de journaux.<br>
+        •	Développement et optimisation en ASP et SQL Server pour la gestion des données.<br>
+        •	Administration et maintenance des serveurs et postes clients (Windows NT4 & Windows 98).<br>
+        •	Formation des clients et employés à l’utilisation des outils internet.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Amélioration du site web en optimisant le système de récupération des coupures de journaux.<br>
+      ✅ Gestion et sécurisation des serveurs sous Windows NT4.<br>
+      ✅ Formation des utilisateurs pour une meilleure autonomie sur les outils en ligne.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Windows NT 4 | Windows 98 | ASP (développement web dynamique) | Microsoft SQL Server
+
+  - role: Technicien Micro-Réseaux
+    time: Septembre 1999 - Octobre 1999
+    title: Société Borzo Bell
+    details: |
+      <b>Missions principales :</b><br>
+        •	Maintenance des serveurs sous AS400 et des postes clients sous Windows NT4.<br>
+        •	Gestion et support technique auprès des utilisateurs.<br>
+        •	Interface entre le client et le prestataire basé à Bordeaux.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Supervision et maintenance des infrastructures IT pour garantir leur bon fonctionnement.<br>
+      ✅ Coordination entre les équipes locales et le prestataire pour optimiser la résolution des incidents.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      AS400 | Windows NT4 | Windows 95
+
+  - role: Charger de clientèle, vendeur informatique
+    time: Décembre 1996 - Aout 1999
+    title: Auchan
+    details: |
+      <b>Missions principales :</b><br>
+        •	Conseil et vente de produits informatiques auprès des clients.<br>
+        •	Installation et configuration des équipements informatiques pour les clients.<br>
+
+      <b>Réalisations clés :</b><br>
+      ✅ Assistance dans le choix des produits informatiques selon les besoins des clients.<br>
+      ✅ Installation et configuration des matériels informatiques pour une expérience optimale.<br>
+
+      <b>💡 Compétences techniques :</b><br>
+      Vente Informatique | Installation et Configuration Matériels
